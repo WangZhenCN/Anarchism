@@ -1,2 +1,2 @@
-# anarchism
+# Anarchism
 Blockchain-Based Anarchy
